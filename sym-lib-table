@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Sensors")(type "KiCad")(uri "${KIPRJMOD}/Sensors.kicad_sym")(options "")(descr ""))
+  (lib (name "Supply")(type "KiCad")(uri "${KIPRJMOD}/libs/Supply.kicad_sym")(options "")(descr ""))
+  (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/libs/Connectors.kicad_sym")(options "")(descr ""))
+)

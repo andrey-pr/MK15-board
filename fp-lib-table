@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Sensors")(type "KiCad")(uri "${KIPRJMOD}/libs/Sensors.pretty")(options "")(descr ""))
+  (lib (name "Supply")(type "KiCad")(uri "${KIPRJMOD}/libs/Supply.pretty")(options "")(descr ""))
+  (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/libs/Connectors.pretty")(options "")(descr ""))
+)
